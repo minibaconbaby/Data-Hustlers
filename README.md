@@ -15,7 +15,12 @@ Attribution Table:
 | Task | Completed By |
 | :---         |     :---:      | 
 | Pollinate TO Cleanup and EDA   | Clara     | 
-| Neighborhood data Cleanup and EDA   | Raisa    | 
+| Neighborhood Shapefile data Cleanup and EDA   | Raisa    | 
+| Neighborhood Profiles data Cleanup and EDA   | Raisa    |
+| Toronto Schools data Cleanup and EDA   | Raisa    |
+| Toronto Parks data Cleanup and EDA   | Raisa    |
+| Homeless Shelters data Cleanup | Raisa    |
+| Homeless Shelters data EDA | Clara    |
 | Traffic data Cleanup and EDA | Jeff     | 
 | Weather data Cleanup and EDA   | Catherine     | 
 | Neighbourhood Geospatial Analysis   | Raisa     | 
