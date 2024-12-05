@@ -19,6 +19,7 @@ Attribution Table:
 | Neighborhood Profiles data Cleanup and EDA   | Raisa    |
 | Toronto Schools data Cleanup and EDA   | Raisa    |
 | Toronto Parks data Cleanup and EDA   | Raisa    |
+| Toronto Development data Cleanup and EDA   | Raisa    |
 | Homeless Shelters data Cleanup | Raisa    |
 | Homeless Shelters data EDA | Clara    |
 | Traffic data Cleanup and EDA | Jeff     | 
