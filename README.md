@@ -18,3 +18,20 @@ Attribution Table:
 | Neighborhood Data Cleanup and EDA   | Raisa    | 
 | Traffic data Cleanup and EDA | Jeff     | 
 | Weather data Cleanup and EDA   | Catherine     | 
+| Neighbourhood Geospatial Analysis   | Raisa     | 
+| Presentations   | Everyone     | 
+| Github Repository Cleanup   | Clara     | 
+| Changes Notebooks to Incoorperate Feedback   | Clara     | 
+| Illustrations & Visualizations   | Everyone     | 
+| Medium Article (Into, Related Work and Traffic Density )  | Jeff    | 
+| Medium Article (All other sections)  | Catherine  | 
+
+Notebooks belong to:
+1. Weather_Data_EDA.ipynb - Catherine
+2. NewTraffic.ipynb - Jeff
+3. Raisa's EDA.ipynb - Raisa
+4. Neighbourhood pull.ipynb - Raisa
+5. PollinateTO.ipynb - Clara
+6. Neighborhood Data EDA.ipynb - Revised - Raisa (edited by Clara)
+
+
