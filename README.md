@@ -1,10 +1,10 @@
 # CME538 Big Project - Data Hustlers
 
 Team:
-Clara Castro-Vaquero
-Raisa Nekhaeva
-Jeff Li
-Catherine Ye
+Clara Castro-Vaquero (claraicastro)
+Raisa Nekhaeva (RaisaNekhaeva)
+Jeff Li (JeffLi2024)
+Catherine Ye (minibaconbaby/John Doe)
 
 Structure of this repository:
 1. Folders containing raw data, clean data, Exporatory Data Analysis (EDA) maps, figures and datasets (weather and neighborhood data APIs)
@@ -15,7 +15,7 @@ Attribution Table:
 | Task | Completed By |
 | :---         |     :---:      | 
 | Pollinate TO Cleanup and EDA   | Clara     | 
-| Neighborhood Data Cleanup and EDA   | Raisa    | 
+| Neighborhood data Cleanup and EDA   | Raisa    | 
 | Traffic data Cleanup and EDA | Jeff     | 
 | Weather data Cleanup and EDA   | Catherine     | 
 | Neighbourhood Geospatial Analysis   | Raisa     | 
@@ -23,7 +23,7 @@ Attribution Table:
 | Github Repository Cleanup   | Clara     | 
 | Changes Notebooks to Incoorperate Feedback   | Clara     | 
 | Illustrations & Visualizations   | Everyone     | 
-| Medium Article (Into, Related Work and Traffic Density )  | Jeff    | 
+| Medium Article (Into, Related Work and Traffic Density)  | Jeff    | 
 | Medium Article (All other sections)  | Catherine  | 
 
 Notebooks belong to:
